@@ -6,7 +6,7 @@
 - 作者：我一人
 - 時間：2023-12 因原本範圍寫太大，故後來改專案，故僅約 2-3 週開發的時間。
 - 所用語言：C#
-- 所用框架：WinForms。
+- 所用框架：Framework4.7.2 Code-Behind, WinForms
 - 所用資料庫：MSSQL。
 - [圖片預覽](https://github.com/c-cat-er/playfood/tree/main/images)
 - [影片預覽]
